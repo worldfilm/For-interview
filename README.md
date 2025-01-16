@@ -74,4 +74,4 @@ Vue部分
   * [CSS3新增伪类有那些?](./docs/css3-1.md)
   * [:before 和 ::before 区别? ](./docs/css3-2.md)
 Javascript部分
-  js-Interview(./js/js-Interview.md)
+  * [js-Interview](./js/js-Interview.md)
