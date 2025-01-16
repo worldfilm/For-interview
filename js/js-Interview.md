@@ -1,5 +1,7 @@
 js面试题汇总
 
+值类型(基本类型)：字符串（String）、数字(Number)、布尔(Boolean)、空（Null）、未定义（Undefined）、Symbol。
+引用数据类型（对象类型）：对象(Object)、数组(Array)、函数(Function)，还有两个特殊的对象：正则（RegExp）和日期（Date）。
 javascript的typeof返回哪些数据类型. string,boolean,number,underfined,function,object
 
 例举3种强制类型转换和2种隐式类型转换? 强制：parseInt,parseFloat,number
